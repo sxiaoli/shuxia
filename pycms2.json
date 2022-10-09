@@ -2,7 +2,7 @@
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "dr_count": 42,
     "mode": 1,
-    "spider": "clan://TV/js/files/custom_spider.jar",
+    "spider": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/files/custom_spider.jar",
     "drives": [
 	    {
             "name": "舒夏",
@@ -147,421 +147,421 @@
             "key": "dr_喵喵",
             "name": "喵喵(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "file:///storage/emulated/0/TV/js/喵喵.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/喵喵.js"
         },
         {
             "key": "dr_vip影院",
             "name": "vip影院(drpy)",
             "type": 3,
-            "api": "http://43.200.9.118:59830/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/vip影院.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/vip影院.js"
         },
         {
             "key": "dr_菜狗",
             "name": "菜狗(drpy)",
             "type": 3,
-            "api": "http://43.200.9.118:59830/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "file:///storage/emulated/0/TV/js/菜狗.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/菜狗.js"
         },
         {
             "key": "dr_蓝莓影视",
             "name": "蓝莓影视(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/蓝莓影视.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/蓝莓影视.js"
         },
         {
             "key": "dr_AnFuns",
             "name": "AnFuns(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/AnFuns.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/AnFuns.js"
         },
         {
             "key": "dr_库马伊",
             "name": "库马伊(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/库马伊.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/库马伊.js"
         },
         {
             "key": "dr_看视界",
             "name": "看视界(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/看视界.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/看视界.js"
         },
         {
             "key": "dr_百忙无果",
             "name": "百忙无果(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "clan://TV/js/百忙无果.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/百忙无果.js"
         },
         {
             "key": "dr_腾云驾雾",
             "name": "腾云驾雾(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "clan://TV/js/腾云驾雾.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/腾云驾雾.js"
         },
         {
             "key": "dr_酷云77",
             "name": "酷云77(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "clan://TV/js/酷云77.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/酷云77.js"
         },
         {
             "key": "dr_猫了个咪",
             "name": "猫了个咪(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/猫了个咪.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/猫了个咪.js"
         },
         {
             "key": "dr_凌云影视",
             "name": "凌云影视(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/凌云影视.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/凌云影视.js"
         },
         {
             "key": "dr_影视工厂",
             "name": "影视工厂(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/影视工厂.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/影视工厂.js"
         },
         {
             "key": "dr_LIBVIO",
             "name": "LIBVIO(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/LIBVIO.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/LIBVIO.js"
         },
         {
             "key": "dr_真不卡",
             "name": "真不卡(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/真不卡.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/真不卡.js"
         },
         {
             "key": "dr_在线之家",
             "name": "在线之家(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/在线之家.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/在线之家.js"
         },
         {
             "key": "dr_cokemv",
             "name": "cokemv(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/cokemv.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/cokemv.js"
         },
         {
             "key": "dr_追剧喵",
             "name": "追剧喵(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/追剧喵.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/追剧喵.js"
         },
         {
             "key": "dr_奇珍异兽",
             "name": "奇珍异兽(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "clan://TV/js/奇珍异兽.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/奇珍异兽.js"
         },
         {
             "key": "dr_人人影视",
             "name": "人人影视(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/人人影视.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/人人影视.js"
         },
         {
             "key": "dr_莫扎兔",
             "name": "莫扎兔(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/莫扎兔.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/莫扎兔.js"
         },
         {
             "key": "dr_玄天",
             "name": "玄天(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/玄天.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/玄天.js"
         },
         {
             "key": "dr_奇优影院",
             "name": "奇优影院(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/奇优影院.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/奇优影院.js"
         },
         {
             "key": "dr_大米星球",
             "name": "大米星球(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/大米星球.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/大米星球.js"
         },
         {
             "key": "dr_剧白白",
             "name": "剧白白(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/剧白白.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/剧白白.js"
         },
         {
             "key": "dr_蓝光影院",
             "name": "蓝光影院(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/蓝光影院.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/蓝光影院.js"
         },
         {
             "key": "dr_鸭奈飞",
             "name": "鸭奈飞(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/鸭奈飞.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/鸭奈飞.js"
         },
         {
             "key": "dr_兔小贝",
             "name": "兔小贝(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/兔小贝.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/兔小贝.js"
         },
         {
             "key": "dr_360影视",
             "name": "360影视(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/360影视.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/360影视.js"
         },
         {
             "key": "dr_牛马TV",
             "name": "牛马TV(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/牛马TV.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/牛马TV.js"
         },
         {
             "key": "dr_555影视",
             "name": "555影视(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/555影视.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/555影视.js"
         },
         {
             "key": "dr_l0l",
             "name": "l0l(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/l0l.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/l0l.js"
         },
         {
             "key": "dr_干饭影视",
             "name": "干饭影视(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/干饭影视.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/干饭影视.js"
         },
         {
             "key": "dr_1080P",
             "name": "1080P(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/1080P.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/1080P.js"
         },
         {
             "key": "dr_小强迷",
             "name": "小强迷(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/小强迷.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/小强迷.js"
         },
         {
             "key": "dr_优酷",
             "name": "优酷(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "clan://TV/js/优酷.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/优酷.js"
         },
         {
             "key": "dr_番茄影视",
             "name": "番茄影视(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/番茄影视.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/番茄影视.js"
         },
         {
             "key": "dr_小猫咪",
             "name": "小猫咪(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/小猫咪.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/小猫咪.js"
         },
         {
             "key": "dr_夜空",
             "name": "夜空(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/夜空.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/夜空.js"
         },
         {
             "key": "dr_瓜皮TV",
             "name": "瓜皮TV(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/瓜皮TV.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/瓜皮TV.js"
         },
         {
             "key": "dr_007影视",
             "name": "007影视(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/007影视.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/007影视.js"
         },
         {
             "key": "dr_万能影视",
             "name": "万能影视(drpy)",
             "type": 3,
-            "api": "clan://TV/js/libs/drpy.min.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/libs/drpy.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://TV/js/万能影视.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/万能影视.js"
         },
         {
             "key": "dr_drpy",
@@ -799,13 +799,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://43.200.9.118:59830/txt/pluto/drpy.js"
+            "ext": "hhttps://raw.githubusercontents.com/sxbai/shuxia/main/js/pluto/drpy.js"
         },
         {
             "key": "dr_MXONE",
             "name": "MXONE(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/MXONE.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/MXONE.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -814,7 +814,7 @@
             "key": "dr_Nike影视",
             "name": "Nike影视(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/Nike影视.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/Nike影视.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -823,7 +823,7 @@
             "key": "dr_TV云播",
             "name": "TV云播(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/TV云播.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/TV云播.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -832,7 +832,7 @@
             "key": "dr_两个BT",
             "name": "两个BT(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/两个BT.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/两个BT.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -841,7 +841,7 @@
             "key": "dr_乐猪TV",
             "name": "乐猪TV(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/乐猪TV.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/乐猪TV.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -850,7 +850,7 @@
             "key": "dr_剧荒",
             "name": "剧荒(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/剧荒.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/剧荒.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -859,7 +859,7 @@
             "key": "dr_剧迷",
             "name": "剧迷(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/剧迷.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/剧迷.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -868,7 +868,7 @@
             "key": "dr_大师兄影视",
             "name": "大师兄影视(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/大师兄影视.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/大师兄影视.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -877,7 +877,7 @@
             "key": "dr_天空影视",
             "name": "天空影视(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/天空影视.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/天空影视.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -886,7 +886,7 @@
             "key": "dr_完美看看",
             "name": "完美看看(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/完美看看.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/完美看看.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -895,7 +895,7 @@
             "key": "dr_快云影院",
             "name": "快云影院(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/快云影院.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/快云影院.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -904,7 +904,7 @@
             "key": "dr_爱看影视",
             "name": "爱看影视(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/爱看影视.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/爱看影视.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -913,7 +913,7 @@
             "key": "dr_爱看电影",
             "name": "爱看电影(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/爱看电影.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/爱看电影.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -922,7 +922,7 @@
             "key": "dr_特狗影视",
             "name": "特狗影视(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/特狗影视.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/特狗影视.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -931,7 +931,7 @@
             "key": "dr_皮皮泡",
             "name": "皮皮泡(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/皮皮泡.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/皮皮泡.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -940,7 +940,7 @@
             "key": "dr_看了么",
             "name": "看了么(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/看了么.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/看了么.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -949,7 +949,7 @@
             "key": "dr_胖虎影视",
             "name": "胖虎影视(道长)",
             "type": 1,
-            "api": "clan://TV/js/tg/胖虎影视.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/tg/胖虎影视.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -958,7 +958,7 @@
             "key": "dr_18av",
             "name": "18av(道长)",
             "type": 1,
-            "api": "clan://TV/js/18/18av.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/18/18av.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -967,7 +967,7 @@
             "key": "dr_banan",
             "name": "banan(道长)",
             "type": 1,
-            "api": "clan://TV/js/18/banan.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/18/banan.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -976,7 +976,7 @@
             "key": "dr_Missav",
             "name": "Missav(道长)",
             "type": 1,
-            "api": "clan://TV/js/18/Missav.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/18/Missav.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -985,7 +985,7 @@
             "key": "dr_养端",
             "name": "养端(道长)",
             "type": 1,
-            "api": "hclan://TV/js/18/养端.js",
+            "api": "hhttps://raw.githubusercontents.com/sxbai/shuxia/main/js/18/养端.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -994,7 +994,7 @@
             "key": "dr_吸瓜",
             "name": "吸瓜(道长)",
             "type": 1,
-            "api": "clan://TV/js/18/吸瓜.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/18/吸瓜.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -1003,7 +1003,7 @@
             "key": "dr_朱古力",
             "name": "朱古力(道长)",
             "type": 1,
-            "api": "clan://TV/js/18/朱古力.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/18/朱古力.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -1012,7 +1012,7 @@
             "key": "dr_玩偶姐姐",
             "name": "玩偶姐姐(道长)",
             "type": 1,
-            "api": "clan://TV/js/18/玩偶姐姐.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/18/玩偶姐姐.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
@@ -1788,7 +1788,7 @@
         },
         {
             "name": "鸿途",
-            "url": "clan://TV/js/jiexi/鸿途.js?url=",
+            "url": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/jiexi/鸿途.js?url=",
             "type": 1,
             "ext": {
                 "flag": [
@@ -1822,7 +1822,7 @@
         },
         {
             "name": "江湖",
-            "url": "clan://TV/js/jiexi/江湖.js?url=",
+            "url": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/jiexi/江湖.js?url=",
             "type": 1,
             "ext": {
                 "flag": [
@@ -1856,7 +1856,7 @@
         },
         {
             "name": "酷云",
-            "url": "clan://TV/js/jiexi/酷云.js?url=",
+            "url": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/jiexi/酷云.js?url=",
             "type": 1,
             "ext": {
                 "flag": [
@@ -1890,7 +1890,7 @@
         },
         {
             "name": "168",
-            "url": "clan://TV/js/jiexi/168.js?url=",
+            "url": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/jiexi/168.js?url=",
             "type": 1,
             "ext": {
                 "flag": [
@@ -1924,7 +1924,7 @@
         },
         {
             "name": "无名",
-            "url": "clan://TV/js/jiexi/无名.js?url=",
+            "url": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/jiexi/无名.js?url=",
             "type": 1,
             "ext": {
                 "flag": [
