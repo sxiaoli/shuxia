@@ -799,7 +799,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "hhttps://raw.githubusercontents.com/sxbai/shuxia/main/js/pluto/drpy.js"
+            "ext": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/pluto/drpy.js"
         },
         {
             "key": "dr_MXONE",
@@ -985,7 +985,7 @@
             "key": "dr_养端",
             "name": "养端(道长)",
             "type": 1,
-            "api": "hhttps://raw.githubusercontents.com/sxbai/shuxia/main/js/18/养端.js",
+            "api": "https://raw.githubusercontents.com/sxbai/shuxia/main/js/18/养端.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0
