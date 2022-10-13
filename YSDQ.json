@@ -1,7 +1,7 @@
 {
     "Alist": {
-		"舒夏": "https://alist.sxbai.repl.co",
-		"舒夏阿里": "http://3.39.220.137:56563",
+	"舒夏": "https://alist.sxbai.repl.co",
+	"舒夏阿里": "http://3.39.220.137:56563",
         "米奇妙妙屋": "https://anime.mqmmw.ga",
         "小兵组网盘影视": "https://6vv.app",
         "一只鱼": "https://alist.youte.ml",
@@ -14,7 +14,7 @@
         "token": "3865f0ab8f124688ad786a262af9b940"
     },
     "Zhibo": [
-	    {
+	{
             "pf": "douyu",
             "id": "王者荣耀",
             "name": "斗鱼-王者荣耀"
