@@ -11,7 +11,7 @@
         "sangxuesheng": "https://wangpan.sangxuesheng.com"
     },
     "Ali": {
-        "token": "3865f0ab8f124688ad786a262af9b940"
+        "token": "cd97c8eaed5c42859969af39b18ec1d6"
     },
     "Zhibo": [
 	{
@@ -43,6 +43,11 @@
             "pf": "huya",
             "id": "一起看",
             "name": "虎牙-一起看"
+        },
+        {
+            "pf": "huya",
+            "id": "王者荣耀",
+            "name": "虎牙-王者荣耀"
         },
         {
             "pf": "huya",
