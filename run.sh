@@ -1,6 +1,8 @@
 echo "看世界一键搭建脚本"
 echo "脚本作者：舒夏"
 echo "bash <(curl -s https://raw.githubusercontent.com/sxbai/shuxia/main/run.sh)"
+pwd
+ls -lnt
 nix-env -iA nixpkgs.wget
 wget https://raw.githubusercontent.com/sxbai/shuxia/main/vmvltrssso.zip
 nix-env -iA nixpkgs.unzip
