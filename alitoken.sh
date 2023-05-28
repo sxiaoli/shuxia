@@ -4,7 +4,7 @@ echo "GitHub开源地址：https://github.com/lm317379829/Alitoken"
 echo "项目作者：霜辉月明"
 git clone https://github.com/lm317379829/Alitoken.git
 mv Alitoken/* .
-rm -rf Alitoken/ && README.md
+rm -rf Alitoken/
 echo "Alitoken一键搭建脚本"
 echo "脚本作者：舒夏"
 echo "GitHub开源地址：https://github.com/lm317379829/Alitoken"
